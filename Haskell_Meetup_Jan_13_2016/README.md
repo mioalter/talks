@@ -1,5 +1,5 @@
 #Two Tricks for Program Optimization
-### Haskell Meetup @[Wagon](https://www.wagonhq.com/)
+## Haskell Meetup @[Wagon](https://www.wagonhq.com/)
 
 Slides and code from my talk "Two Tricks for Program Optimization: Difference Lists and the Codensity monad."
 
