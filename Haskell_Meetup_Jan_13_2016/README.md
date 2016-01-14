@@ -1,4 +1,4 @@
-#Haskell Meetup January 13, 2016 @Wagon
+#Haskell Meetup January 13, 2016 @[Wagon](https://www.wagonhq.com/)
 
 Slides and code from my talk "Two Tricks for Program Optimization: Difference Lists and the Codensity monad."
 
